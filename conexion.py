@@ -1,4 +1,4 @@
-from netmiko import ConnectHandler, NetmikoAuthenticationException, NetmikoTimeoutException
+rom netmiko import ConnectHandler, NetmikoAuthenticationException, NetmikoTimeoutException
 import paramiko
 import os
 from dotenv import load_dotenv
@@ -119,3 +119,4 @@ if __name__ == "__main__":
     main()
 
 
+#lo damos por terminado
